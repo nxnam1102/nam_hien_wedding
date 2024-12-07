@@ -7,5 +7,5 @@ document.addEventListener("DOMContentLoaded", () =>
     const preloader = document.getElementById("preloader");
     console.log("==========");
     preloader?.classList?.add("uk-hidden");
-  }, 2000)
+  }, 2500)
 );

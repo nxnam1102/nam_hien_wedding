@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/namhien/static/css/main.7eee306d.css",
-    "main.js": "/namhien/static/js/main.bfb7da37.js",
+    "main.js": "/namhien/static/js/main.6a5d36a0.js",
     "static/js/453.f0a15d47.chunk.js": "/namhien/static/js/453.f0a15d47.chunk.js",
     "index.html": "/namhien/index.html",
     "main.7eee306d.css.map": "/namhien/static/css/main.7eee306d.css.map",
-    "main.bfb7da37.js.map": "/namhien/static/js/main.bfb7da37.js.map",
+    "main.6a5d36a0.js.map": "/namhien/static/js/main.6a5d36a0.js.map",
     "453.f0a15d47.chunk.js.map": "/namhien/static/js/453.f0a15d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eee306d.css",
-    "static/js/main.bfb7da37.js"
+    "static/js/main.6a5d36a0.js"
   ]
 }
