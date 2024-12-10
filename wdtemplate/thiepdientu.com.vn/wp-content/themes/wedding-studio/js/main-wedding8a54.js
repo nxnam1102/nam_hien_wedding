@@ -1,6 +1,7 @@
 window.initTemplate = function () {
   AOS.init();
   var swiper1 = new Swiper(".album-slide", {
+    loop: true,
     effect: "coverflow",
     grabCursor: true,
     centeredSlides: true,
@@ -20,7 +21,6 @@ window.initTemplate = function () {
   Fancybox.bind("[data-fancybox]", {});
   //AUDIO
   $(".toggleAudio").on("click", function () {
-    console.log("start audio");
     $(this).find("i").toggleClass("ri-volume-up-fill");
     audio = $("#audio");
     audio[0].paused ? audio[0].play() : audio[0].pause();
