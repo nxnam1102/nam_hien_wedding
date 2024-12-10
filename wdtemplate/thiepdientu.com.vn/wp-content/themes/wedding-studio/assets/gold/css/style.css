@@ -168,6 +168,9 @@ meter {
 html {
   scroll-behavior: smooth;
 }
+.toggleAudio {
+  z-index: 9999;
+}
 
 /* ========= ELEMENT ========== */
 
