@@ -285,6 +285,10 @@ html {
   -webkit-text-fill-color: transparent;
 }
 
+textarea::placeholder {
+  color: gray;
+}
+
 /* ========= AND ELEMENT ========== */
 
 /* ------------------------------------------------------------------------- */
